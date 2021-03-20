@@ -20,21 +20,21 @@
 
 <h6 align="left">LANGAGES :</h6>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jquery" width="40" height="40"/></a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="#"> <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" alt="jquery" width="40" height="40"/> </a>
 
 <h6 align="left">FRAMEWORKS :</h6>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="40" height="40"/></a>
-<a href="#"><img src="https://cdn.worldvectorlogo.com/logos/typo3-1.svg" alt="typo3" width="40" height="40"/></a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/typo3-1.svg" alt="typo3" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-<a href="#"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
+<a href="#"> <img src="https://icongr.am/devicon/symfony-original.svg?size=128&color=currentColor" alt="symfony" width="40" height="40"/> </a>
 
 <h6 align="left">OUTILS DE DEVELOPPEMENT :</h6>
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
