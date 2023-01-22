@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bonjour 👋, Je m'appelle Caroline</h1>
-<h2 align="center">Designeuse UX/UI / Conceptrice & Développeuse d'Applications / Développeuse Web & Web Mobile</h2>
+<h2 align="center">Designeuse UX-UI / Conceptrice & Développeuse d'Applications / Développeuse Web & Web Mobile</h2>
 
 - 👨‍💻 Voici mon portfolio : [https://kro0580.github.io/portfolio/](https://kro0580.github.io/portfolio/)
 
