@@ -39,7 +39,7 @@
 <h6 align="left">OUTILS DE DEVELOPPEMENT :</h6>
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intelliJ" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
