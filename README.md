@@ -49,7 +49,8 @@
 <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="ubuntu" width="40" height="40"/> </a>
 
 <h6 align="left">SUITE ADOBE :</h6>
-<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"> </a>
 
 </p>
 
