@@ -29,7 +29,7 @@
 <a href="#"> <img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" alt="jquery" width="40" height="40"/> </a>
 
 <h6 align="left">FRAMEWORKS :</h6>
-<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="40" height="40"/> </a>
+<a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="#"> <img src="https://cdn.worldvectorlogo.com/logos/typo3-1.svg" alt="typo3" width="50" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
