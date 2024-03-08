@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bonjour 👋, Je m'appelle Caroline</h1>
-<h2 align="center">Conceptrice & Développeuse d'Applications <br> Développeuse Web & Web Mobile <br> Chargé de Communication </h2>
+<h2 align="center">Conceptrice & Développeuse d'Applications <br> Développeuse Web & Web Mobile <br> Community Manager </h2>
 
 - 👨‍💻 Voici mon portfolio : https://kro0580.github.io/portfolio/
 
