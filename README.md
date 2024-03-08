@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Bonjour 👋, Je m'appelle Caroline</h1>
-<h2 align="center">Conceptrice & Développeuse d'Applications / Développeuse Web & Web Mobile</h2>
+<h2 align="center">Conceptrice & Développeuse d'Applications <br> Développeuse Web & Web Mobile <br> Chargé de Communication </h2>
 
-- 👨‍💻 Voici mon portfolio : [https://kro0580.github.io/portfolio/](https://kro0580.github.io/portfolio/)
+- 👨‍💻 Voici mon portfolio : https://kro0580.github.io/portfolio/
 
 - 📫 Vous pouvez me contacter à l'adresse mail suivante : **cpotelle@yahoo.fr**
 
@@ -13,6 +13,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/caroline-potelle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caroline-potelle" height="30" width="40" /></a>
 <a href="https://fb.com/caroline.potelle.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="caroline.potelle.7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/caroline-potelle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="caroline-potelle" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/caroline-potelle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="caroline-potelle" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/caroline-potelle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg" alt="caroline-potelle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/caroline-potelle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="caroline-potelle" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Compétences :</h2>
