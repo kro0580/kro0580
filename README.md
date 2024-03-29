@@ -5,8 +5,8 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Caroline</h1>
 <h2 align="center">Conceptrice & Développeuse d'Applications <br> Développeuse Web & Web Mobile <br> Community Manager </h2>
 
-- 👨‍💻 Voici mon web portfolio : https://kro0580.github.io/portfolio/
-- 👨‍💻 Voici mon adobe portfolio : https://carolinepotelle.myportfolio.com/
+- 👨‍💻 Voici mon Web Portfolio : https://kro0580.github.io/portfolio/
+- 🔗 Voici mon Adobe Portfolio : https://carolinepotelle.myportfolio.com/
 
 - 📫 Vous pouvez me contacter à l'adresse mail suivante : **cpotelle@yahoo.fr**
 
